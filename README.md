@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding-freak.gif)]
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)]
 <h1 align="center">Hi 👋, I'm Supriya Tainwala</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
